@@ -14,34 +14,23 @@ The implementation uses fundamental Python concepts such as conditional statemen
 
 # Innomatics Research Labs – Internship Task 2
 
-This repository contains my submission for **Logic Building Task – 2** as part of the Data Science Internship (February 2026) at Innomatics Research Labs.
+This repository contains my submission for Logic Building Task 2 of the Advanced Generative AI Internship at Innomatics Research Labs.
 
-## Task Overview
+The assignment focuses on strengthening Python fundamentals through practical problems including:
 
-This task focuses on strengthening core Python fundamentals through practical logic-building problems.
+1) Unique words identification in a sentence  
+2) Highest salary detection from employee data  
+3) Finding maximum and minimum values  
+4) Counting products above a price threshold  
+5) Calculating attendance percentage  
+6) Removing duplicate phone numbers  
+7) Counting character frequency  
+8) Converting list to tuple  
+9) Checking key existence in a dictionary  
+10) Calculating average marks  
 
-The problems covered include:
+The implementation uses core Python concepts such as lists, dictionaries, sets, loops, conditional statements, and basic mathematical operations.
 
-- Finding unique words in a sentence
-- Identifying the highest salary from employee data
-- Finding maximum and minimum values in a list
-- Counting products above a price threshold
-- Calculating attendance percentage
-- Removing duplicate phone numbers
-- Counting character frequency in a string
-- Converting list to tuple
-- Checking key existence in a dictionary
-- Calculating average marks
-
-## Concepts Used
-
-- Lists and Tuples  
-- Dictionaries  
-- Sets  
-- Conditional Statements  
-- Loops  
-- String Methods  
-- Basic Mathematical Operations  
 
 All solutions are implemented using clean, structured, and well-commented Python code as per the internship guidelines.
 
