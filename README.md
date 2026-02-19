@@ -50,3 +50,18 @@ The assignment focuses on applying Python programming concepts to real-world dat
 The implementation uses core Python concepts such as dictionaries, lists, tuples, loops, conditional statements, string manipulation, enumeration, and basic statistical calculations.
 
 All solutions are implemented using clean, structured, and well-commented Python code as per the internship guidelines.
+
+# Innomatics Research Labs – Internship Task 4
+
+This repository contains my submission for Task 4 – Functions with Loops of the Advanced Generative AI Internship at Innomatics Research Labs.
+
+The assignment focuses on implementing real-world logic using Python functions and loop structures through practical problems including:
+
+1) Mobile recharge validation system
+2) Inventory reorder alert detection
+3) Student result processing and average calculation
+4) Cab fare estimation with peak hour adjustment
+5) Employee attendance eligibility checking
+6) Password strength validation
+
+The implementation uses core Python concepts such as user-defined functions, while loops, for loops, conditional statements, list operations, string handling, and basic mathematical calculations.
