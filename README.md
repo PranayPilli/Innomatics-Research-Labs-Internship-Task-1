@@ -65,3 +65,21 @@ The assignment focuses on implementing real-world logic using Python functions a
 6) Password strength validation
 
 The implementation uses core Python concepts such as user-defined functions, while loops, for loops, conditional statements, list operations, string handling, and basic mathematical calculations.
+
+# Innomatics Research Labs – Internship Task 5
+This repository contains my submission for Task 5 – Real-World Function-Based Problem Solving of the Advanced Generative AI Internship at Innomatics Research Labs.
+
+The assignment focuses on solving industry-oriented problems using Python functions through practical scenarios including:
+
+1) Post engagement analysis
+2) Medicine stock alert system
+3) Rainfall adequacy checker
+4) Duplicate account detection
+5) Appointment eligibility validation
+6) Premium crop price filtering
+7) Application health monitoring
+8) Transaction limit validation
+9) Attendance eligibility system
+10) Smart electricity bill calculation
+
+The implementation uses core Python concepts such as user-defined functions, loops, conditional statements, lists, sets, and mathematical operations.
