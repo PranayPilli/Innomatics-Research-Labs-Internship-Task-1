@@ -83,3 +83,17 @@ The assignment focuses on solving industry-oriented problems using Python functi
 10) Smart electricity bill calculation
 
 The implementation uses core Python concepts such as user-defined functions, loops, conditional statements, lists, sets, and mathematical operations.
+
+# Innomatics Research Labs – Internship Task 6
+This repository contains my submission for Task 6 – Function-Based Problem Solving of the Advanced Generative AI Internship at Innomatics Research Labs.
+
+The assignment focuses on solving real-world system-based problems using Python functions through practical scenarios including:
+
+1) Smart parking lot management
+2) Food delivery time estimation
+3) Movie theatre occupancy analysis
+4) Cloud server load classification
+5) Classroom resource usage monitoring
+6) Event registration capacity control
+
+The implementation uses core Python concepts such as user-defined functions, loops, conditional statements, lists, dictionaries, and basic mathematical calculations.
