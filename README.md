@@ -97,3 +97,17 @@ The assignment focuses on solving real-world system-based problems using Python 
 6) Event registration capacity control
 
 The implementation uses core Python concepts such as user-defined functions, loops, conditional statements, lists, dictionaries, and basic mathematical calculations.
+
+# Innomatics Research Labs – Internship Task 7
+This repository contains my submission for Task 7 – OOPS (Object-Oriented Programming) of the Advanced Generative AI Internship at Innomatics Research Labs.
+
+The assignment focuses on implementing real-world scenarios using Python classes and objects through practical problems including:
+
+1) Smart light controller
+2) Employee ID card system
+3) Mobile contact record
+4) Product price tag generator
+5) Movie rating display system
+6) Delivery address manager
+
+The implementation uses core OOPS concepts such as classes, constructors, instance variables, and methods in a clean and structured manner.
